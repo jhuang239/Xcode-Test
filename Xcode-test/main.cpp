@@ -1,15 +1,12 @@
-//
-//  main.cpp
-//  Xcode-test
-//
-//  Created by Kim Wong on 22/2/2019.
-//  Copyright © 2019 Kim Wong. All rights reserved.
-//
-
 #include <iostream>
+using namespace std;
 
-int main(int argc, const char * argv[]) {
-    // insert code here...
-    std::cout << "Hello, World!\n";
+
+int main(){
+    cout<<"Hello Word"<<endl;
+    cin.get();
+    
+    system("pause");
     return 0;
+    
 }
